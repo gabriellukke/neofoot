@@ -12,6 +12,9 @@
 </script>
 
 <main class="container">
+  <div class="mb-6 rounded-lg bg-emerald-600 px-4 py-3 text-white shadow">
+    Tailwind test: if you see this green banner, Tailwind is working.
+  </div>
   <h1>Welcome to Tauri + Svelte</h1>
 
   <div class="row">
