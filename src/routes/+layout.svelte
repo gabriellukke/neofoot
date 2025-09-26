@@ -1,10 +1,8 @@
 <script lang="ts">
-  import "../app.css";
+  import '../app.css';
+  import '../lib/i18n';
 </script>
 
-<div class="min-h-screen bg-brand-navy text-brand-offwhite">
+<div class="bg-brand-navy text-brand-offwhite min-h-screen">
   <slot />
-  
 </div>
-
-

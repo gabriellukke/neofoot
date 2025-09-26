@@ -1,0 +1,13 @@
+{
+  "app": {
+    "title": "Neofoot",
+    "subtitle": "Simulação de gestão de futebol"
+  },
+  "menu": {
+    "newGame": "Novo Jogo",
+    "loadGame": "Carregar Jogo",
+    "settings": "Configurações",
+    "quit": "Sair"
+  },
+  "version": "v0.1.0"
+}
